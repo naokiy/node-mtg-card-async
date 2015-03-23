@@ -1,0 +1,26 @@
+{
+  "name": "mtg-card-sync",
+  "version": "0.0.0",
+  "description": "Async-get mtg card information from mtgjson.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/naokiy/node-mtg-card-sync.git"
+  },
+  "keywords": [
+    "mtg",
+    "async"
+  ],
+  "author": "naokiy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naokiy/node-mtg-card-sync/issues"
+  },
+  "homepage": "https://github.com/naokiy/node-mtg-card-sync",
+  "dependencies": {
+    "sync-request": "*"
+  }
+}
